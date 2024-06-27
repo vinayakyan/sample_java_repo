@@ -16,4 +16,3 @@ public class SecondProgram {
         System.out.println("You entered: " + number);
     }
 }
-Output
